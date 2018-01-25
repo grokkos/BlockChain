@@ -20,8 +20,6 @@ public class Util {
             return hexString.toString();
 
 
-
-
         }
 
         catch (Exception e){
